@@ -13,4 +13,4 @@ XBoost's performance will be faced with CatBoost Classifier.
 
 All process to get the data file, transform it, training, testing and create the endpoint and use it is explain in notebook file [ECGClassifier.ipynb](./ECGClassifier.ipynb).
 
-The noteboot also shows two ways of how to training, testing and deploy. To XGBoost it was used [boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) library and to CatBoost Classifier, it was used [scikit learn](https://scikit-learn.org/stable/) framework.
+The notebook also shows two ways of how to training, testing and deploy. To XGBoost it was used [boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) library and to CatBoost Classifier, it was used [scikit learn](https://scikit-learn.org/stable/) framework.
